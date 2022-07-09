@@ -14,6 +14,6 @@
 
 ## Subjects Summary
 
-- Class 01: 
-- 
+- Class 01: [Intellij IDEA introduction](https://github.com/jmmarao/ws-object-oriented-programming/tree/main/src/main/java/br/edu/ifsp/class01)
+- Class 02:
 ### :link: [ADS Course Information Access](https://scl.ifsp.edu.br/index.php/cursos.html?id=116:ads&catid=61)
