@@ -15,5 +15,5 @@
 ## Subjects Summary
 
 - Class 01: [Intellij IDEA introduction](https://github.com/jmmarao/ws-object-oriented-programming/tree/main/src/main/java/br/edu/ifsp/class01)
-- Class 02:
+- Class 02: Platform, data types, operators and basic commands
 ### :link: [ADS Course Information Access](https://scl.ifsp.edu.br/index.php/cursos.html?id=116:ads&catid=61)
