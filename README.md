@@ -1,5 +1,6 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/jmmarao/ws-object-oriented-programming)
 ![GitHub top language](https://img.shields.io/github/languages/top/jmmarao/ws-object-oriented-programming)
+![GitHub](https://img.shields.io/github/license/jmmarao/ws-object-oriented-programming)
 ![GitHub last commit](https://img.shields.io/github/last-commit/jmmarao/ws-object-oriented-programming)
 
 # :mortar_board: Object-Oriented Programming
